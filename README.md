@@ -64,24 +64,13 @@ Each planet follows its orbit around the Sun and displays its **real-time distan
 
 ---
 
-## Demo
-
-A working demo video is included with the project to showcase the simulation behavior, orbital motion, and distance tracking.
-
----
 
 ## Installation & Setup
 
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd <project-folder>
+   git clone https://github.com/Mayanksharma1s/planets
    ```
 
 3. Install required dependencies:
@@ -93,7 +82,7 @@ A working demo video is included with the project to showcase the simulation beh
 4. Run the simulation:
 
    ```bash
-   python main.py
+   python planet.py
    ```
 
 **Note:** The simulation window is set to `800 × 800` pixels and runs at 60 FPS.
